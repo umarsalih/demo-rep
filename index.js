@@ -11,3 +11,8 @@ if(true) {
 else {
     console.log("Bye")
 }
+
+//Code below written after feature 02 branch was created
+
+console.log("Created feature 2");
+var feature02 = true;
